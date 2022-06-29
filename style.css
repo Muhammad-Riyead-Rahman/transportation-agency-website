@@ -302,7 +302,7 @@ body {
 
 .logo {
   font-family: var(--ff-oswald);
-  color: var(--white);
+  color: red;
   font-size: 3rem;
 }
 
