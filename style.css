@@ -851,6 +851,7 @@ body {
 
 .copyright-link {
   display: inline-block;
+  color: maroon;
 }
 
 /* back-to-top */
